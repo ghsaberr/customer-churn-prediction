@@ -8,3 +8,8 @@
 2025-02-23 20:21:31,201 - WARNING - No such comm: 048032d5-bff5-4fb9-a114-67bb4d263d28
 2025-02-23 20:27:04,601 - ERROR - No such comm target registered: jupyter.widget.control
 2025-02-23 20:27:04,603 - WARNING - No such comm: b29143cb-8536-4a90-aa36-5605b324449b
+2025-02-23 22:48:00,562 - INFO - Model: Gradient Boosting | Accuracy: 0.8638 | Precision: 0.7451 | Recall: 0.4847 | F1-score: 0.5873 | AUC: 0.7216
+2025-02-23 22:49:38,575 - INFO - Model: Gradient Boosting | Accuracy: 0.8638 | Precision: 0.7451 | Recall: 0.4847 | F1-score: 0.5873 | AUC: 0.7216
+2025-02-23 22:53:33,796 - INFO - Model: Gradient Boosting | Accuracy: 0.8638 | Precision: 0.7451 | Recall: 0.4847 | F1-score: 0.5873 | AUC: 0.7216
+2025-02-23 22:55:15,008 - INFO - Model: Gradient Boosting | Accuracy: 0.8638 | Precision: 0.7451 | Recall: 0.4847 | F1-score: 0.5873 | AUC: 0.7216
+2025-02-23 22:55:50,819 - INFO - Model: Gradient Boosting | Accuracy: 0.8638 | Precision: 0.7451 | Recall: 0.4847 | F1-score: 0.5873 | AUC: 0.7216
